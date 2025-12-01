@@ -1,0 +1,22 @@
+{
+  "name": "konva-quill-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+	  "build": "tsc",
+	  "watch": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "konva": "^9.3.20",
+    "quill": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/quill": "^2.0.14",
+    "typescript": "^5.8.3"
+  }
+}
